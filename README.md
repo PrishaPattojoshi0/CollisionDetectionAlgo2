@@ -1,2 +1,2 @@
-# CollisionDetectionAlgo2
-Collision between 2 game objects
+# p5.play-boilerplate
+Boiler plate for p5.play
